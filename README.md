@@ -84,3 +84,4 @@ Supports both `.jsonl` and `.jsonl.gz` input.
 ## Contributors
 
 - **Nalin Singh** - [@nalindotexe](https://github.com/nalindotexe)
+- **Aditya** - [@adix57](https://github.com/adix57)
