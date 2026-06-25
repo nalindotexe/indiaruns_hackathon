@@ -1,0 +1,27 @@
+# Datasets and large data files
+candidates.jsonl
+candidates.jsonl.gz
+sample_candidates.json
+*.jsonl
+*.jsonl.gz
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments and OS files
+.venv/
+venv/
+env/
+ENV/
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/

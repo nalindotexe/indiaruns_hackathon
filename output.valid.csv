@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0011125,1,1.0260,6.6y exp with strong embeddings/retrieval at wysa. hands-on with vector databases. strong product-company background.
+CAND_0061265,2,1.0151,6.6y exp with strong embeddings/retrieval at zoho. hands-on with vector databases. strong product-company background.
+CAND_0018499,3,1.0124,7.2y exp with strong embeddings/retrieval at zomato. hands-on with vector databases. strong product-company background.
+CAND_0045250,4,1.0109,6.6y exp with strong embeddings/retrieval at rephrase.ai. hands-on with vector databases. strong product-company background.
+CAND_0048469,5,0.9805,4.7y exp with strong embeddings/retrieval at vedantu. hands-on with vector databases. strong product-company background.
+CAND_0017960,6,0.9720,7.7y exp recommendation systems engineer at nykaa. hands-on with vector databases. strong product-company background.
+CAND_0005649,7,0.9682,7.4y exp senior data scientist at sarvam ai. hands-on with vector databases. strong product-company background.
+CAND_0068811,8,0.9678,8.0y exp with strong embeddings/retrieval at freshworks. hands-on with vector databases. strong product-company background.
+CAND_0091909,9,0.9677,6.9y exp machine learning engineer at rephrase.ai. hands-on with vector databases. strong product-company background.
+CAND_0015057,10,0.9523,4.6y exp with strong embeddings/retrieval at meesho. hands-on with vector databases. strong product-company background.
+CAND_0007009,11,0.9482,7.9y exp with strong embeddings/retrieval at wysa. hands-on with vector databases. strong product-company background.
+CAND_0030784,12,0.9350,4.4y exp with strong embeddings/retrieval at yellow.ai. hands-on with vector databases. strong product-company background.
+CAND_0067866,13,0.9319,6.4y exp with strong embeddings/retrieval at tech mahindra. hands-on with vector databases. proven production deployment experience.
+CAND_0038368,14,0.9260,5.4y exp with strong embeddings/retrieval at phonepe. hands-on with vector databases. strong product-company background.
+CAND_0089947,15,0.9239,5.4y exp junior ml engineer at saarthi.ai. hands-on with vector databases. strong product-company background.
+CAND_0073007,16,0.9231,5.8y exp with strong embeddings/retrieval at aganitha. hands-on with vector databases. strong product-company background.
+CAND_0041669,17,0.9184,8.0y exp recommendation systems engineer at cred. hands-on with vector databases. strong product-company background.
+CAND_0058959,18,0.9149,5.7y exp with strong embeddings/retrieval at stark industries. hands-on with vector databases. strong product-company background.
+CAND_0060835,19,0.9123,6.6y exp with strong embeddings/retrieval at sarvam ai. hands-on with vector databases. strong product-company background.
+CAND_0037160,20,0.9108,6.0y exp with strong embeddings/retrieval at haptik. hands-on with vector databases. proven production deployment experience.
+CAND_0027801,21,0.9100,7.4y exp nlp engineer at inmobi. hands-on with vector databases. strong product-company background.
+CAND_0096142,22,0.9001,5.0y exp applied ml engineer at upgrad. hands-on with vector databases. strong product-company background.
+CAND_0052682,23,0.8999,6.6y exp with strong embeddings/retrieval at aganitha. hands-on with vector databases. strong product-company background.
+CAND_0011687,24,0.8975,7.8y exp with strong embeddings/retrieval at niramai. hands-on with vector databases. strong product-company background.
+CAND_0088049,25,0.8956,5.9y exp with strong embeddings/retrieval at freshworks. hands-on with vector databases. strong product-company background.
+CAND_0081852,26,0.8951,5.9y exp senior data scientist at mad street den. hands-on with vector databases. strong product-company background.
+CAND_0007590,27,0.8937,7.7y exp with strong embeddings/retrieval at inmobi. hands-on with vector databases. proven production deployment experience.
+CAND_0044855,28,0.8917,6.6y exp with strong embeddings/retrieval at flipkart. hands-on with vector databases. strong product-company background.
+CAND_0016163,29,0.8902,6.7y exp with strong embeddings/retrieval at dream11. hands-on with vector databases. strong product-company background.
+CAND_0041352,30,0.8877,5.6y exp with strong embeddings/retrieval at nykaa. hands-on with vector databases. strong product-company background.
+CAND_0011065,31,0.8808,5.4y exp computer vision engineer at nykaa. hands-on with vector databases. strong product-company background.
+CAND_0086151,32,0.8805,7.7y exp with strong embeddings/retrieval at wysa. hands-on with vector databases. strong product-company background.
+CAND_0073314,33,0.8733,5.2y exp senior software engineer (ml) at aganitha. hands-on with vector databases. strong product-company background.
+CAND_0081480,34,0.8693,5.6y exp computer vision engineer at sarvam ai. hands-on with vector databases. strong product-company background.
+CAND_0061257,35,0.8639,8.0y exp with strong embeddings/retrieval at linkedin. strong product-company background. proven production deployment experience.
+CAND_0054859,36,0.8635,6.9y exp with strong embeddings/retrieval at ola. strong product-company background. proven production deployment experience.
+CAND_0064020,37,0.8633,5.9y exp senior software engineer at pied piper. hands-on with vector databases. strong product-company background.
+CAND_0021798,38,0.8627,6.2y exp with strong embeddings/retrieval at swiggy. hands-on with vector databases. strong product-company background.
+CAND_0094799,39,0.8626,6.1y exp backend engineer at pied piper. hands-on with vector databases. strong product-company background.
+CAND_0010541,40,0.8620,6.2y exp ai research engineer at wysa. hands-on with vector databases. strong product-company background.
+CAND_0058426,41,0.8610,6.5y exp data scientist at wysa. hands-on with vector databases. strong product-company background.
+CAND_0008978,42,0.8609,6.7y exp with strong embeddings/retrieval at tech mahindra. hands-on with vector databases. proven production deployment experience.
+CAND_0061738,43,0.8590,5.1y exp with strong embeddings/retrieval at stark industries. hands-on with vector databases. strong product-company background.
+CAND_0015668,44,0.8569,6.6y exp software engineer at tech mahindra. hands-on with vector databases. strong product-company background.
+CAND_0074469,45,0.8564,5.1y exp with strong embeddings/retrieval at freshworks. hands-on with vector databases. strong product-company background.
+CAND_0073982,46,0.8547,7.0y exp data scientist at dream11. hands-on with vector databases. proven production deployment experience.
+CAND_0078790,47,0.8515,4.5y exp data scientist at vedantu. hands-on with vector databases. strong product-company background.
+CAND_0052735,48,0.8514,3.5y exp with strong embeddings/retrieval at wysa. hands-on with vector databases. strong product-company background.
+CAND_0071974,49,0.8462,7.8y exp with strong embeddings/retrieval at netflix. hands-on with vector databases. strong product-company background.
+CAND_0007412,50,0.8457,7.4y exp applied ml engineer at zoho. hands-on with vector databases. strong product-company background.
+CAND_0013957,51,0.8448,6.3y exp with strong embeddings/retrieval at pied piper. strong product-company background. proven production deployment experience.
+CAND_0058688,52,0.8441,6.7y exp with strong embeddings/retrieval at vedantu. hands-on with vector databases. strong product-company background.
+CAND_0067414,53,0.8431,6.6y exp with strong embeddings/retrieval at pied piper. strong product-company background. proven production deployment experience.
+CAND_0061674,54,0.8425,4.7y exp with strong embeddings/retrieval at nykaa. hands-on with vector databases. strong product-company background.
+CAND_0027021,55,0.8415,5.1y exp with strong embeddings/retrieval at mphasis. proven production deployment experience.
+CAND_0067041,56,0.8405,6.9y exp data scientist at saarthi.ai. hands-on with vector databases. proven production deployment experience.
+CAND_0053527,57,0.8398,7.0y exp junior ml engineer at phonepe. hands-on with vector databases. strong product-company background.
+CAND_0017093,58,0.8397,5.9y exp with strong embeddings/retrieval at zoho. strong product-company background. proven production deployment experience.
+CAND_0033408,59,0.8395,7.0y exp with strong embeddings/retrieval at freshworks. hands-on with vector databases. strong product-company background.
+CAND_0055992,60,0.8388,16.9y exp with strong embeddings/retrieval at cred. hands-on with vector databases. strong product-company background.
+CAND_0028793,61,0.8376,7.2y exp with strong embeddings/retrieval at google. hands-on with vector databases. strong product-company background.
+CAND_0055905,62,0.8374,8.1y exp with strong embeddings/retrieval at flipkart. hands-on with vector databases. strong product-company background.
+CAND_0030643,63,0.8350,4.7y exp computer vision engineer at paytm. hands-on with vector databases. strong product-company background.
+CAND_0013536,64,0.8346,14.1y exp with strong embeddings/retrieval at haptik. hands-on with vector databases. strong product-company background.
+CAND_0087630,65,0.8333,7.2y exp with strong embeddings/retrieval at vedantu. hands-on with vector databases. strong product-company background.
+CAND_0087783,66,0.8283,6.7y exp with strong embeddings/retrieval at meesho. hands-on with vector databases. strong product-company background.
+CAND_0030946,67,0.8264,6.7y exp with strong embeddings/retrieval at yellow.ai. hands-on with vector databases. proven production deployment experience.
+CAND_0077337,68,0.8258,7.0y exp staff machine learning engineer at paytm. hands-on with vector databases. strong product-company background.
+CAND_0008618,69,0.8256,4.7y exp with strong embeddings/retrieval at saarthi.ai. hands-on with vector databases. strong product-company background.
+CAND_0064326,70,0.8240,7.6y exp search engineer at sarvam ai. hands-on with vector databases. strong product-company background.
+CAND_0015967,71,0.8238,5.4y exp senior software engineer (ml) at razorpay. strong product-company background. proven production deployment experience.
+CAND_0091580,72,0.8237,5.5y exp data scientist at niramai. hands-on with vector databases. strong product-company background.
+CAND_0072721,73,0.8208,3.7y exp with strong embeddings/retrieval at yellow.ai. hands-on with vector databases. strong product-company background.
+CAND_0073620,74,0.8200,4.4y exp ai research engineer at tcs. hands-on with vector databases. proven production deployment experience.
+CAND_0040178,75,0.8185,5.0y exp ml engineer at meesho. hands-on with vector databases. strong product-company background.
+CAND_0085351,76,0.8171,6.0y exp software engineer at zomato. hands-on with vector databases. strong product-company background.
+CAND_0060636,77,0.8170,7.5y exp analytics engineer at initech. hands-on with vector databases. strong product-company background.
+CAND_0089362,78,0.8160,7.1y exp data engineer at meesho. hands-on with vector databases. proven production deployment experience.
+CAND_0093193,79,0.8154,7.9y exp with strong embeddings/retrieval at niramai. hands-on with vector databases. strong product-company background.
+CAND_0091745,80,0.8141,5.9y exp junior ml engineer at locobuzz. strong product-company background. proven production deployment experience.
+CAND_0078508,81,0.8129,5.2y exp with strong embeddings/retrieval at rephrase.ai. hands-on with vector databases. strong product-company background.
+CAND_0065277,82,0.8111,6.3y exp computer vision engineer at aganitha. hands-on with vector databases. strong product-company background.
+CAND_0016491,83,0.8099,7.5y exp data engineer at cred. hands-on with vector databases. strong product-company background.
+CAND_0026532,84,0.8090,4.8y exp with strong embeddings/retrieval at zomato. hands-on with vector databases. strong product-company background.
+CAND_0046064,85,0.8085,8.9y exp senior nlp engineer at salesforce. hands-on with vector databases. strong product-company background.
+CAND_0080766,86,0.8076,8.8y exp staff machine learning engineer at salesforce. hands-on with vector databases. strong product-company background.
+CAND_0068273,87,0.8075,6.6y exp data scientist at wysa. hands-on with vector databases. strong product-company background.
+CAND_0071880,88,0.8068,5.8y exp senior software engineer (ml) at locobuzz. strong product-company background. proven production deployment experience.
+CAND_0015528,89,0.8044,7.4y exp applied ml engineer at krutrim. hands-on with vector databases. strong product-company background.
+CAND_0090155,90,0.8012,5.8y exp ml engineer at swiggy. hands-on with vector databases. strong product-company background.
+CAND_0003100,91,0.8011,5.5y exp ai specialist at verloop.io. hands-on with vector databases. strong product-company background.
+CAND_0018094,92,0.7999,5.2y exp ml engineer at mad street den. hands-on with vector databases. strong product-company background.
+CAND_0099269,93,0.7999,5.5y exp data scientist at byju's. hands-on with vector databases. strong product-company background.
+CAND_0007298,94,0.7995,5.9y exp software engineer at initech. hands-on with vector databases. proven production deployment experience.
+CAND_0005509,95,0.7989,6.0y exp data scientist at ola. hands-on with vector databases. strong product-company background.
+CAND_0056309,96,0.7975,8.0y exp senior data engineer at acme corp. hands-on with vector databases. strong product-company background.
+CAND_0050454,97,0.7971,6.8y exp ai engineer at rephrase.ai. hands-on with vector databases. strong product-company background.
+CAND_0009844,98,0.7957,6.9y exp with strong embeddings/retrieval at nykaa. strong product-company background. proven production deployment experience.
+CAND_0060538,99,0.7954,5.2y exp with strong embeddings/retrieval at verloop.io. hands-on with vector databases. proven production deployment experience.
+CAND_0062649,100,0.7949,6.6y exp software engineer at vedantu. hands-on with vector databases. strong product-company background.

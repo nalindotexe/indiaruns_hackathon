@@ -1,0 +1,9 @@
+name: redrob-ranker
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  # The ranker is heavily optimized to run using only the Python Standard Library
+  # (json, csv, gzip, math, datetime) to guarantee blazing fast 7-second execution 
+  # without the overhead of massive external data science libraries.
