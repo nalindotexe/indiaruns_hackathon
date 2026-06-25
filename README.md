@@ -102,3 +102,10 @@ To verify the generated CSV perfectly matches the Hackathon specifications:
 ```bash
 python validate_submission.py team_submission.csv
 ```
+
+---
+
+## 👥 Contributors
+
+* **Nalin Singh** - [@nalindotexe](https://github.com/nalindotexe)
+
